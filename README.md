@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalithkanth&label=Profile%20views&color=0e75b6&style=flat" alt="lalithkanth" /> </p>
 
-- 🔭 I’m currently working on **Automated Cheque Processing**
+- 🔭 I’m currently working on **Machine Learning Techzz**
 
 - 🌱 I’m currently learning **React Native**
 
